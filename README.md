@@ -1,6 +1,6 @@
 # AoE4 Helper
 
-A practice overlay for **Age of Empires IV** by MicroMindsGG. It reads your screen like a second pair of eyes and tells you what you missed: an idle Town Center, idle villagers, enemies on the minimap, a build order that follows your villagers, and who your opponents are before the first fight.
+A coaching overlay for **Age of Empires IV** by MicroMindsGG. It reads your screen like a second pair of eyes and tells you what you missed: an idle Town Center, idle villagers, a build order that follows your villagers, and who your opponents are before the first fight.
 
 It never reads the game's memory and never sends inputs. Screen only.
 
@@ -8,11 +8,14 @@ It never reads the game's memory and never sends inputs. Screen only.
 
 ## What it does
 
-- **Enemy pings** next to the minimap: spotted · moving · in your base · at an ally's base · joining the fight. Each with its own sound, from the side the enemy is on. Works in team games.
+- **Build order card** with a timer that follows your villager count, step by step, with your pace against the plan. Our own ◆ MacroMind builds, any aoe4guides.com build, or your own in the editor.
 - **Economy alerts:** TC idle, idle villagers, house soon / housed, too many resources banked, "you can age up".
-- **Build order card** with a timer that follows your villager count, step by step, with your pace against the plan. Import any aoe4guides.com build, or make your own in the editor.
-- **Opponents:** at match start, who they are (from their public AoE4World games), how they usually play, when they attack, what they build and what beats it. `Ctrl+Alt+C` in game for the matchup.
-- **After the game:** a review with a score, your villager and bank curves, every alert with its reason, and the build timeline.
+- **Enemy info:** at match start, who they are (from their public AoE4World games), how they usually play, when they attack, what they build and what beats it, and the matchup.
+- **After the game:** statistics with a score, your villager and bank curves, every alert with its reason, the build timeline, and a match review.
+
+## The map add-on (beta, separate download)
+
+Enemy pings, the ping list and teams from the minimap are **not part of AoE4 Helper**. They come as a separate add-on, still in beta, with its own key. Open **Pings & minimap** in the app: tick the three lines, press **Download and install**, restart. **Not for ranked games** - it keeps its pings off in ranked matches.
 
 ## Install
 
