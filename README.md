@@ -1,5 +1,7 @@
 # AoE4 Helper
 
+**Website:** [macromindgg.com](https://macromindgg.com/?src=github) (Age Up Coach, the new name for AoE4 Helper) · **Discord:** [join here](https://discord.gg/D56f2gXzX)
+
 A coaching overlay for **Age of Empires IV** by MicroMindsGG. It reads your screen like a second pair of eyes and tells you what you missed: an idle Town Center, idle villagers, a build order that follows your villagers, and who your opponents are before the first fight.
 
 It never reads the game's memory and never sends inputs. Screen only.
