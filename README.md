@@ -1,4 +1,6 @@
-# AoE4 Helper
+# AoE4 Overlay for Age of Empires 4 - Age Up Coach, formerly AoE4 Helper
+
+The free AoE4 overlay for Age of Empires 4: build order timer, idle TC and villager alerts, and enemy info. More at https://macromindgg.com
 
 **Website:** [macromindgg.com](https://macromindgg.com/?src=github) (Age Up Coach, the new name for AoE4 Helper) · **Discord:** [join here](https://discord.gg/D56f2gXzX)
 
